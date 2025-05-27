@@ -6,7 +6,7 @@ This repository demonstrates how to finetune Mistral-7B using Unsloth, a library
 
 1. Clone this repository:
 ```bash
-git clone [your repo
+git clone [your repo]
 cd [your folder]
 ```
 
