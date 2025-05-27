@@ -6,8 +6,8 @@ This repository demonstrates how to finetune Mistral-7B using Unsloth, a library
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Aakashjammula/finetune_piplline.git
-cd finetune_piplline
+git clone [your repo
+cd [your folder]
 ```
 
 2. Install dependencies from requirements.txt:
@@ -27,8 +27,8 @@ The requirements.txt includes all necessary packages for running the finetuning 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/technovangelist/videoprojects.git
-cd videoprojects/2025-01-24-unslothfinetune
+git clone https://github.com/Aakashjammula/finetune_piplline.git
+cd finetune_piplline
 ```
 
 2. Install dependencies:
