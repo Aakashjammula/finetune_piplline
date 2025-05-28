@@ -7,7 +7,7 @@ from transformers import Trainer, TrainingArguments
 
 
 model, tokenizer = FastLanguageModel.from_pretrained(
-model_name="Qwen/Qwen3-4B", 
+model_name="meta-llama/Llama-3.2-3B", 
 max_seq_length=2048
 )
 
